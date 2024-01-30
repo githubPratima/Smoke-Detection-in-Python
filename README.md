@@ -1,7 +1,7 @@
 Task: A collection of data points on various parameters related to air entities and our task is to realize when there is smoke according to the data passed. This is a binary classification task wherein we have to classify if there is smoke or not.
 
 
-Introduction: Our project is about a smoke detection system that introduces a smoke detector to determine a fire or not. It helps to give a warning to people about the smoke fire, carbon monoxide, or other fire-related or general notification emergencies which are detected in their surroundings. Some of the classifiers that we used in this project are KNeighborsClassifier, SGDClassfier, LogisticRegression, RandomForestClassifeir, GradientBoostingClassifier, AdaBoostClassifier, etc. In our project for getting the result of smoke detection, we have done data exploration, data cleaning, data splitting, and feeding the data to various models, and plot results, and fine-tune model stacking.
+Introduction: This project is about a smoke detection system that introduces a smoke detector to determine a fire or not. It helps to give a warning to people about the smoke fire, carbon monoxide, or other fire-related or general notification emergencies which are detected in their surroundings. Some of the classifiers that we used in this project are KNeighborsClassifier, SGDClassfier, LogisticRegression, RandomForestClassifeir, GradientBoostingClassifier, AdaBoostClassifier, etc. In this project for getting the result of smoke detection, I have done data exploration, data cleaning, data splitting, and feeding the data to various models, and plot results, and fine-tune model stacking.
 
 Experiments and Results:
 The smoke detection dataset contains 16 columns in total which are mentioned below in detail.
