@@ -1,9 +1,8 @@
 <h1>Task:</h1> A collection of data points on various parameters related to air entities and our task is to realize when there is smoke according to the data passed. This is a binary classification task wherein we have to classify if there is smoke or not.
 
+<h1>Instroduction:</h1> This project is about a smoke detection system that introduces a smoke detector to determine a fire or not. It helps to give a warning to people about the smoke fire, carbon monoxide, or other fire-related or general notification emergencies which are detected in their surroundings. Some of the classifiers that we used in this project are KNeighborsClassifier, SGDClassfier, LogisticRegression, RandomForestClassifeir, GradientBoostingClassifier, AdaBoostClassifier, etc. In this project for getting the result of smoke detection, I have done data exploration, data cleaning, data splitting, and feeding the data to various models, and plot results, and fine-tune model stacking.
 
-**Introduction:** This project is about a smoke detection system that introduces a smoke detector to determine a fire or not. It helps to give a warning to people about the smoke fire, carbon monoxide, or other fire-related or general notification emergencies which are detected in their surroundings. Some of the classifiers that we used in this project are KNeighborsClassifier, SGDClassfier, LogisticRegression, RandomForestClassifeir, GradientBoostingClassifier, AdaBoostClassifier, etc. In this project for getting the result of smoke detection, I have done data exploration, data cleaning, data splitting, and feeding the data to various models, and plot results, and fine-tune model stacking.
-
-**Experiments and Results:**
+<h1>about Dataset</h1>
 The smoke detection dataset contains 16 columns in total which are mentioned below in detail.
 Feature Description:
       The project consists of only numerical features; there are no categorical features. For example 
@@ -24,7 +23,7 @@ Feature Description:
 15.	Fire Alarm - (Reality) If the fire was present then the value is 1 else it is 0.
 
 
-**Conclusion:**
+<h1>TConclusion:</h1>
 To conclude we displayed all the results such as accuracy, f1 score, auc score and classification report. We also did 5-fold cross validation on the trained stacking classifier. 
 	Cross-validation is a resampling procedure used to evaluate machine learning models on a limited data sample.
 	The procedure has a single parameter called k that refers to the number of groups that a given data sample is to be split into. As such, the procedure is often called k-fold cross-validation. When a specific value for k is chosen, it may be used in place of k in the reference to the model, such as k=10 becoming 10-fold cross-validation.
