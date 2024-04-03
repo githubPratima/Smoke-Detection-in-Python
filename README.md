@@ -2,7 +2,7 @@
 
 <h1>Introduction:</h1> This project is about a smoke detection system that introduces a smoke detector to determine a fire or not. It helps to give a warning to people about the smoke fire, carbon monoxide, or other fire-related or general notification emergencies which are detected in their surroundings. Some of the classifiers that we used in this project are KNeighborsClassifier, SGDClassfier, LogisticRegression, RandomForestClassifeir, GradientBoostingClassifier, AdaBoostClassifier, etc. In this project for getting the result of smoke detection, I have done data exploration, data cleaning, data splitting, and feeding the data to various models, and plot results, and fine-tune model stacking.
 
-<h1>About Dataset</h1>
+<h1>About Dataset:</h1>
 The smoke detection dataset contains 16 columns in total which are mentioned below in detail.
 Feature Description:
       The project consists of only numerical features; there are no categorical features. For example 
