@@ -23,7 +23,7 @@ Feature Description:
 15.	Fire Alarm - (Reality) If the fire was present then the value is 1 else it is 0.
 
 
-<h1>TConclusion:</h1>
+<h1>Conclusion:</h1>
 To conclude we displayed all the results such as accuracy, f1 score, auc score and classification report. We also did 5-fold cross validation on the trained stacking classifier. 
 	Cross-validation is a resampling procedure used to evaluate machine learning models on a limited data sample.
 	The procedure has a single parameter called k that refers to the number of groups that a given data sample is to be split into. As such, the procedure is often called k-fold cross-validation. When a specific value for k is chosen, it may be used in place of k in the reference to the model, such as k=10 becoming 10-fold cross-validation.
